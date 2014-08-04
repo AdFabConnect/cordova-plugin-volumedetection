@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="fr.adfab.Volumedetectionphonegap"
+    version="1.0.0">
+    <name>VolumeDetectionPhonegap</name>
+    <description>VolumeDetectionPhonegap</description>
+    <license>MIT</license>
+
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+		    <feature name="VolumeDetectionPhonegap">
+		        <param name="ios-package" value="VolumeDetectionPhonegap" />
+		        <param name="stop" value="VolumeDetectionPhonegap" />
+		        <param name="start" value="VolumeDetectionPhonegap" />
+		    </feature>
+        </config-file>
+
+        <header-file src="src/ios/VolumeDetectionPhonegap.h" />
+        <source-file src="src/ios/VolumeDetectionPhonegap.m" />
+    </platform>
+</plugin>
