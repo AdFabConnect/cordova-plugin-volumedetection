@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  test
 //
-//  Created by Xavier Ledoux on 07/01/2014.
+//  Created by Adfab connect on 07/01/2014.
 //  Copyright (c) 2014 Adfab. All rights reserved.
 //
 

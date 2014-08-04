@@ -2,7 +2,7 @@
 //  VolumeDetectionPhonegap.m
 //  HelloWorld
 //
-//  Created by Xavier Ledoux on 07/01/2014.
+//  Created by Adfab connect on 07/01/2014.
 //
 //
 
